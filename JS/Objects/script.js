@@ -2,7 +2,7 @@ class Glass {
   constructor(color, liquid, full) {
     (this.color = color), (this.liquid = liquid), (this.full = full);
   }
-  toggleLiquid(liquidType) {
+  toggleLiquid = function (liquidType) {
     this.liquid = liquidType;
   }
 }
@@ -15,7 +15,7 @@ class Shirt {
     this.size = size;
     this.sleeves = sleeves;
   }
-  toggleSleeves(sleeveLength) {
+  toggleSleeves = function (sleeveLength) {
     this.sleeves = sleeveLength;
   }
 }
