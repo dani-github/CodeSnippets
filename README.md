@@ -1,4 +1,4 @@
-# JavaScript Code Snippets
+# Code Snippets
 
 Welcome to my "Code Snippets" repository! Here, you will find a collection of code snippets showcasing my knowledge and skills in JavaScript.
 
