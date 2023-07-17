@@ -1,6 +1,9 @@
 # Code Snippets
 
-Welcome to my "Code Snippets" repository! Here, you will find a collection of code snippets showcasing my knowledge and skills in JavaScript.
+Welcome to my "Code Snippets" repository!
+In this repository, you will find a range of code snippets that I have developed to solve specific programming problems or explore different concepts. These snippets are intended to showcase my understanding of different languages' syntax, functions, control flow, and more.
+
+While I am still in the early stages of my programming journey, I believe that these examples demonstrate my ability to apply my knowledge effectively. I hope they provide a glimpse into my coding style and problem-solving approach.
 
 ## Usage
 
