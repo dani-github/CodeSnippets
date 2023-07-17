@@ -19,4 +19,4 @@ To use a snippet:
 If you have any questions or suggestions, feel free to reach out to me at [***REMOVED***](mailto:***REMOVED***).
 
 
-### Thank you for visiting my "JavaScript Code Snippets" repository! I hope you find it useful and informative.
+### Thank you for visiting my "JavaScript Code Snippets" repository! I hope you find it useful.
