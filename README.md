@@ -19,6 +19,6 @@ To use a snippet:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [***REMOVED***](mailto:***REMOVED***).
+If you have any questions or suggestions, feel free to reach out.
 
 ### Thank you for visiting my "JavaScript Code Snippets" repository! I hope you find it useful and informative.
